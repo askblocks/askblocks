@@ -1,0 +1,8 @@
+{
+  "name": "askblocks",
+  "version": "0.1.0",
+  "description": "Askblocks main module",
+  "main": "index.js",
+  "author": "sxian1232",
+  "license": "MIT"
+}
